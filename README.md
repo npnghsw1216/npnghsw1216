@@ -1,3 +1,4 @@
 ### 🌱 HSW
-###
-![HSW's GitHub stats](https://github-readme-stats.vercel.app/api?username=npnghsw1216&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
+![HSW profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=npnghsw1216&theme=github_dark)
+![HSW repo languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=npnghsw1216&theme=github_dark)
+![HSW commit languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=npnghsw1216&theme=github_dark)
